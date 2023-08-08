@@ -1,6 +1,6 @@
 # 1337Piscine-PythonforDataScience
 <p align="center">
-  <img width="200" height="130" src="https://github.com/oherba/Training-Piscine-Python-for-datascience/assets/42Ai.png">
+  <img width="200" height="130" src="https://github.com/oherba/Training-Piscine-Python-for-datascience/blob/main/assets/42Ai.png">
 </p>
 
 <h1 align="center">Python for Data Science Piscine</h1>
